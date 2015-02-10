@@ -1,7 +1,8 @@
 /**
  * Created by erikmagnusson on 29/01/15.
- */
-window.onload = function(){
+ *//*
+
+/*window.onload = function(){
     var appended = false;
     $( "#target" ).click(function() {
         if(appended == false){
@@ -31,4 +32,4 @@ window.onload = function(){
             appended = false;
         }
     });
-}
+}*/
