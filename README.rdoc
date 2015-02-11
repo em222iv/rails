@@ -1,11 +1,8 @@
 <b>Installation:</b>
-<p>
 -Ladda ner projektet i testbranchen.
-</p>
-<p>
+
 -Kör igång, öppna 2 terminaler. I den ena skriv "rails s".
 Den andra terminalen så skriver du "rails c", sedan "rake db:migrate" för skapa en Admin.
-</p>
-<p>
+
 Vill du ha testpersoner i systemet, utan att behöva skapa dem själv, så gå in under db -> seeds och avmarkera 
-den kommenterade koden.</p>
+den kommenterade koden.
