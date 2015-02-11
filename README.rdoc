@@ -1,4 +1,4 @@
-<h2>Installation:</h2>
+<b>Installation:</b>
 <p>
 -Ladda ner projektet i testbranchen.
 </p>
