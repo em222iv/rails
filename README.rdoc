@@ -1,28 +1,8 @@
-== README
+<b>Installation:</b>
+-Ladda ner projektet i testbranchen.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-Kör igång, öppna 2 terminaler. I den ena skriv "rails s".
+Den andra terminalen så skriver du "rails c", sedan "rake db:migrate" för skapa en Admin.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Vill du ha testpersoner i systemet, utan att behöva skapa dem själv, så gå in under db -> seeds och avmarkera 
+den kommenterade koden.
